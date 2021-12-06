@@ -1,0 +1,41 @@
+@font-face {
+  font-family: poppins;
+  src: url(fonts/Poppins-Regular.ttf);
+}
+nav {
+  background: #000000;
+  background: -webkit-linear-gradient(to right, #434343, #000000);
+  background: linear-gradient(to left, #434343, #000000);
+}
+nav img {
+  margin-top: -5px;
+}
+.hero {
+  background: #000000;
+  background: -webkit-linear-gradient(to right, #434343, #000000);
+  background: linear-gradient(to left, #434343, #000000);
+}
+.hero h1 {
+  font-family: poppins;
+  font-size: 50px;
+  line-height: 83px;
+  color: #bbbbbb;
+  font-weight: 400;
+  padding-bottom: 15px;
+}
+.hero h1 strong {
+  color: white;
+}
+.hero h3 {
+  color: #ffffff;
+  font-weight: 500;
+  font-size: 18px;
+  padding-right: 53px;
+  position: relative;
+}
+.hero h3 i {
+  padding: 0px 9px;
+  font-weight: 100;
+  font-size: 15px;
+  color: #b9b8b8;
+}
